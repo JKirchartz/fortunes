@@ -25,6 +25,9 @@ use these with `fortune` like:
   gosh-darnit people like you.
 * [memebomb](memebomb): 
   [Discordian memebombs][1] scraped with [kwotes.py][2]
+* [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards 
+  to help you get out of a creative rut.
+* [Real Facts](realfacts) as real as Snapple makes 'em!
 * [Makefile](Makefile): 
   make & update new fortune files with make
 
