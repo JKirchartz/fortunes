@@ -20,15 +20,17 @@ use these with `fortune` like:
     fortune ~/dotfiles/scripts/fortune
 
 
-* [handey](handey): 
+* [handey](handey):
   Jack Handey quotes, because you're good enough, you're smart enough, and
   gosh-darnit people like you.
-* [memebomb](memebomb): 
+* [chuckfacts](chuckfacts):
+  Facts about Chuck Norris (because 2005 should never end)
+* [memebomb](memebomb):
   [Discordian memebombs][1] scraped with [kwotes.py][2]
-* [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards 
+* [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
-* [Makefile](Makefile): 
+* [Makefile](Makefile):
   make & update new fortune files with make
 
 [1]: http://principiadiscordia.com/memebombs/
