@@ -27,6 +27,9 @@ use these with `fortune` like:
   Facts about Chuck Norris (because 2005 should never end)
 * [memebomb](memebomb):
   [Discordian memebombs][1] scraped with [kwotes.py][2]
+* [yow](yow):
+  The file consists of Zippy the Pinhead quotations (from various comic books and
+  strips by Bill Griffith) notable accesible using the the m-x yow command in GNU Emacs.
 * [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
