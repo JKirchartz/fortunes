@@ -1,7 +1,6 @@
 # Fortune Files
 
-Quote lists have a line or lines containing a quote, then a line that's empty
-except for a '%' to separate it from the rest.  ex:
+Quote databases have a line or lines containing a quote, then a line that only contains a '%' (percent sign) to separate it from the others.  ex:
 
     Let's just pretend Quote 1 is very
     ...very...
@@ -11,15 +10,23 @@ except for a '%' to separate it from the rest.  ex:
     and quote 2 is short
     %
 
-after adding a new file, "compile" it with
+after adding or altering a new file recreate the index files for
 
-    make
+    strfile <filename>
+
+you can compile every fortune file in this directory with `make`
 
 use these with `fortune` like:
 
     fortune ~/dotfiles/scripts/fortune
 
+or you can combine these with the fortune files already on your system by asking fortune where it's databases are like so:
 
+    fortune ~/dotfiles/scripts/fortune $(fortune -f 2>&1 | head -n1 | cut =d' ' -f2)
+
+
+* [Makefile](Makefile):
+  make & update new fortune files with make
 * [handey](handey):
   Jack Handey quotes, because you're good enough, you're smart enough, and
   gosh-darnit people like you.
@@ -33,8 +40,6 @@ use these with `fortune` like:
 * [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
-* [Makefile](Makefile):
-  make & update new fortune files with make
 
 [1]: http://principiadiscordia.com/memebombs/
 [2]: https://gist.github.com/JKirchartz/5383142
