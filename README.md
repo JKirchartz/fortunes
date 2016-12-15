@@ -18,11 +18,12 @@ you can compile every fortune file in this directory with `make`
 
 use these with `fortune` like:
 
-    fortune ~/dotfiles/scripts/fortune
+    fortune ~/path/to/this/repo/named/fortune
 
 or you can combine these with the fortune files already on your system by asking fortune where it's databases are like so:
 
-    fortune ~/dotfiles/scripts/fortune $(fortune -f 2>&1 | head -n1 | cut =d' ' -f2)
+    fortune ~/path/to/this/repo/named/fortune $(fortune -f 2>&1 | head -n1 | cut =d' ' -f2)
+
 
 
 * [Makefile](Makefile):
