@@ -41,6 +41,10 @@ or you can combine these with the fortune files already on your system by asking
 * [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
+* Many other quotes scraped from [goodreads][3] or [brainyquotes][4], or from random sites with my [page-scraping bookmarklet, found here.][5]
 
 [1]: http://principiadiscordia.com/memebombs/
 [2]: https://gist.github.com/JKirchartz/5383142
+[3]: https://gist.github.com/JKirchartz/80ad6ec90d44b58486db89058d2fdb37
+[4]: https://gist.github.com/JKirchartz/05b1132a1151bb497bb408fdf4d0cc56
+[5]: http://jkirchartz.com/demos/bookmarklets.html
