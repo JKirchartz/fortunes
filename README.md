@@ -41,6 +41,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Oblique Strategies](ObliqueStrategies): Brian Eno's Oblique Strategies cards
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
+* [Familiar Phrases](familiar phrases) found in [English As She Is Spoke, or A Jest in Somber Earnest](http://www.gutenberg.org/cache/epub/30411/pg30411-images.html#id00122)
 * Many other quotes scraped from [goodreads][3] or [brainyquotes][4], or from random sites with my [page-scraping bookmarklet, found here.][5]
 
 [1]: http://principiadiscordia.com/memebombs/
