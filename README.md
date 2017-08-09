@@ -42,6 +42,7 @@ or you can combine these with the fortune files already on your system by asking
   to help you get out of a creative rut.
 * [Real Facts](realfacts) as real as Snapple makes 'em!
 * [English As She Is Spoke](EnglishAsSheIsSpoke) Familiar Phrases, Idiotisms\[sic\] and Proverbs, and Anecdotes as found in [English As She Is Spoke, or A Jest in Somber Earnest](http://www.gutenberg.org/cache/epub/30411/pg30411-images.html)
+* [rfc1925](rfc1925) is taken from [IETF Network Working Group RFC 1925: The Twelve Networking Truths](https://www.ietf.org/rfc/rfc1925.txt)
 * Many other quotes scraped from [goodreads][3] or [brainyquotes][4], or from random sites with my [page-scraping bookmarklet, found here.][5]
 
 [1]: http://principiadiscordia.com/memebombs/
