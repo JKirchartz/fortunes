@@ -580,3 +580,60 @@ I think Lenat is headed in the right direction, but someone needs to include a k
 I heard that the same thing occurred in a scene in Alien, where the creature pops out of the chest of a crewman. The other actors didn't know what was to happen; the director wanted to get true surprise.
   ~ Marvin Minsky
 %
+People also underestimate the time they spend debugging. They underestimate how much time they can spend chasing a long bug. With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide. There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+~ Martin Fowler (2002) as cited in Evolutionary Design: A Conversation with Martin Fowler, Part III by Bill Venners, November 18, 2002.
+%
+Transparency is valuable, but while many things can be made transparent in distributed objects, performance isn't usually one of them.
+~ Martin Fowler (2003) in: Software development. Vol. 11. p. 99
+%
+Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior. Its heart is a series of small behavior preserving transformations. Each transformation (called a 'refactoring') does little, but a sequence of transformations can produce a significant restructuring. Since each refactoring is small, it's less likely to go wrong. The system is also kept fully working after each small refactoring, reducing the chances that a system can get seriously broken during the restructuring.
+~ Martin Fowler at refactoring.com as cited in: Lawrence Bernstein, C. M. Yuhas (2005) Trustworthy Systems Through Quantitative Software Engineering. p. 266
+%
+One of the things I've been trying to do is look for simpler or rules underpinning good or bad design. I think one of the most valuable rules is avoid duplication. "Once and only once" is the Extreme Programming phrase.
+~ Martin Fowler as cited in: James Shore, Shane Warden (2007) The Art of Agile Development. p. 319
+%
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+~ Martin Fowler (2012) Patterns of Enterprise Application Architecture
+%
+Modeling Principle: Models are not right or wrong; they are more or less useful.
+~ Martin Fowler
+%
+It is commonly said that a pattern, however it is written, has four essential parts: a statement of the context where the pattern is useful, the problem that the pattern addresses, the forces that play in forming a solution, and the solution that resolves those forces. … it supports the definition of a pattern as "a solution to a problem in a context", a definition that [unfortunately] fixes the bounds of the pattern to a single problem-solution pair
+~ Martin Fowler
+%
+The definition I use for pattern is an idea that has been useful in one practical context and will probably be useful in others
+~ Martin Fowler
+%
+The second problem [with using UML for the purposes of this book] is that the Unified Modeling Language concentrates on implementation modeling rather than conceptual modeling
+~ Martin Fowler
+%
+When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+~ Martin Fowler
+%
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+~ Martin Fowler
+%
+Refactoring (noun) : a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing the observable behavior of the software. To refactor (verb) : to restructure software by applying a series of refactorings without changing the observable behavior of the software.
+~ Martin Fowler
+%
+Often you'll see the same three or four data items together in lots of places: fields in a couple of classes, parameters in many method signatures. Bunches of data that hang around together really ought to be made into their own object.
+~ Martin Fowler
+%
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+~ Martin Fowler
+%
+The key is to test the areas that you are most worried about going wrong. That way you get the most benefit for your testing effort. It is better to write and run incomplete tests than not to run complete tests
+~ Martin Fowler
+%
+Steve Mellor and I independently came up with a characterization of the three modes in which people use the UML: sketch, blueprint, and programming language. By far the most common of the three, at least to my biased eye, is UML as sketch. In this usage, developers use the UML to help communicate some aspects of a system. As with blueprints, you can use sketches in a forward-engineering or reverse-engineering direction. Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it.
+~ Martin Fowler
+%
+The key books about object-oriented graphical modeling languages appeared between 1988 and 1992. Leading figures included Grady Booch [Booch,OOAD]; Peter Coad [Coad, OOA], [Coad, OOD]; Ivar Jacobson (Objectory) [Jacobson, OOSE]; Jim Odell [Odell]; Jim Rumbaugh (OMT) [Rumbaugh, insights], [Rumbaugh, OMT]; Sally Shlaer and Steve Mellor [Shlaer and Mellor, data], [Shlaer and Mellor, states] ; and Rebecca Wirfs-Brock (Responsibility Driven Design) [Wirfs-Brock].
+~ Martin Fowler
+%
+Graphical design notations have been with us for a while... their primary value is in communication and understanding. A good diagram can often help communicate ideas about a design, particularly when you want to avoid a lot of details. Diagrams can also help you understand either a software system or a business process. As part of a team trying to figure out something, diagrams both help understanding and communicate that understanding throughout a team. Although they aren't, at least yet, a replacement for textual programming languages, they are a helpful assistant... Of these graphical notations, the UML's importance comes from its wide use and standardization within the OO development community. The UML has become not only the dominant graphical notation within the OO world but also a popular technique in non-OO circles.
+~ Martin Fowler
+%
+Comprehensiveness is the enemy of comprehensibility
+~ Martin Fowler
+%
