@@ -44,6 +44,7 @@ or you can combine these with the fortune files already on your system by asking
 * [English As She Is Spoke](EnglishAsSheIsSpoke) Familiar Phrases, Idiotisms\[sic\] and Proverbs, and Anecdotes as found in [English As She Is Spoke, or A Jest in Somber Earnest](http://www.gutenberg.org/cache/epub/30411/pg30411-images.html)
 * [rfc1925](rfc1925) is taken from [IETF Network Working Group RFC 1925: The Twelve Networking Truths](https://www.ietf.org/rfc/rfc1925.txt)
 * [The Seventy Maxims of Maximally Effective Mercenaries](SeventyMaximsOfMaximallyEffectiveMercenaries) is taken from the [Schlock Mercenary][3] webcomic.
+* [Enkiv2's Glossary of Tech Industry Terms](enkiv2s-glossary-of-tech-industry-terms) taken from [A short glossary of tech industry terms][7]
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
@@ -52,3 +53,4 @@ or you can combine these with the fortune files already on your system by asking
 [4]: https://gist.github.com/JKirchartz/80ad6ec90d44b58486db89058d2fdb37
 [5]: https://gist.github.com/JKirchartz/05b1132a1151bb497bb408fdf4d0cc56
 [6]: http://jkirchartz.com/demos/bookmarklets.html
+[7]: https://medium.com/@enkiv2/a-short-glossary-of-tech-industry-terms-4b5f9fef8db3
