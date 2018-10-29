@@ -637,3 +637,191 @@ Graphical design notations have been with us for a while... their primary value 
 Comprehensiveness is the enemy of comprehensibility
 ~ Martin Fowler
 %
+For a number of years I have been familiar with the observation that the quality of programmers is a decreasing function of the density of go to statements in the programs they produce. More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages.
+~ Edsger W. Dijkstra
+%
+Our intellectual powers are rather geared to master static relations and ... our powers to visualize processes evolving in time are relatively poorly developed. For that reason we should do (as wise programmers aware of our limitations) our utmost to shorten the conceptual gap between the static program and the dynamic process, to make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible.
+~ Edsger W. Dijkstra
+%
+Testing shows the presence, not the absence of bugs
+~ Edsger W. Dijkstra
+%
+A convincing demonstration of correctness being impossible as long as the mechanism is regarded as a black box, our only hope lies in not regarding the mechanism as a black box.
+~ Edsger W. Dijkstra
+%
+When we take the position that it is not only the programmer's responsibility to produce a correct program but also to demonstrate its correctness in a convincing manner, then the above remarks have a profound influence on the programmer's activity: the object he has to produce must be usefully structured.
+~ Edsger W. Dijkstra
+%
+The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.
+~ Edsger W. Dijkstra
+%
+Program testing can be used to show the presence of bugs, but never to show their absence!
+~ Edsger W. Dijkstra
+%
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.
+~ Edsger W. Dijkstra
+%
+Another two years later, in 1957, I married and Dutch marriage rites require you to state your profession and I stated that I was a programmer. But the municipal authorities of the town of Amsterdam did not accept it on the grounds that there was no such profession. And, believe it or not, but under the heading “profession” my marriage act shows the ridiculous entry “theoretical physicist”!
+~ Edsger W. Dijkstra
+%
+Automatic computers have now been with us for a quarter of a century. They have had a great impact on our society in their capacity of tools, but in that capacity their influence will be but a ripple on the surface of our culture, compared with the much more profound influence they will have in their capacity of intellectual challenge without precedent in the cultural history of mankind.
+~ Edsger W. Dijkstra
+%
+After having programmed for some three years, I had a discussion with A. van Wijngaarden, who was then my boss at the Mathematical Center in Amsterdam, a discussion for which I shall remain grateful to him as long as I live. The point was that I was supposed to study theoretical physics at the University of Leiden simultaneously, and as I found the two activities harder and harder to combine, I had to make up my mind, either to stop programming and become a real, respectable theoretical physicist, or to carry my study of physics to a formal completion only, with a minimum of effort, and to become....., yes what? A programmer? But was that a respectable profession? For after all, what was programming? Where was the sound body of knowledge that could support it as an intellectually respectable discipline? I remember quite vividly how I envied my hardware colleagues, who, when asked about their professional competence, could at least point out that they knew everything about vacuum tubes, amplifiers and the rest, whereas I felt that, when faced with that question, I would stand empty-handed. Full of misgivings I knocked on van Wijngaarden’s office door, asking him whether I could “speak to him for a moment”; when I left his office a number of hours later, I was another person. For after having listened to my problems patiently, he agreed that up till that moment there was not much of a programming discipline, but then he went on to explain quietly that automatic computers were here to stay, that we were just at the beginning and could not I be one of the persons called to make programming a respectable discipline in the years to come? This was a turning point in my life and I completed my study of physics formally as quickly as I could. One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
+~ Edsger W. Dijkstra
+%
+Please don't fall into the trap of believing that I am terribly dogmatic about [the go to statement]. I have the uncomfortable feeling that others are making a religion out of it, as if the conceptual problems of programming could be solved by a simple trick, by a simple form of coding discipline!
+~ Edsger W. Dijkstra
+%
+Don't blame me for the fact that competent programming, as I view it as an intellectual possibility, will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+~ Edsger W. Dijkstra
+%
+Several people have told me that my inability to suffer fools gladly is one of my main weaknesses.
+~ Edsger W. Dijkstra
+%
+Write a paper promising salvation, make it a 'structured' something or a 'virtual' something, or 'abstract', 'distributed' or 'higher-order' or 'applicative' and you can almost be certain of having started a new cult.
+~ Edsger W. Dijkstra
+%
+For me, the first challenge for computing science is to discover how to maintain order in a finite, but very large, discrete universe that is intricately intertwined. And a second, but not less important challenge is how to mould what you have achieved in solving the first problem, into a teachable discipline: it does not suffice to hone your own intellect (that will join you in your grave), you must teach others how to hone theirs. The more you concentrate on these two challenges, the clearer you will see that they are only two sides of the same coin: teaching yourself is discovering what is teachable.
+~ Edsger W. Dijkstra
+%
+As a result of a long sequence of coincidences I entered the programming profession officially on the first spring morning of 1952, and as far as I have been able to trace, I was the first Dutchman to do so in my country.
+~ Edsger W. Dijkstra
+%
+We must be very careful when we give advice to younger people: sometimes they follow it!
+~ Edsger W. Dijkstra
+%
+We must not forget that it is not our [computing scientists'] business to make programs, it is our business to design classes of computations that will display a desired behaviour.
+~ Edsger W. Dijkstra
+%
+The major cause [of the software crisis] is that the machines have become several orders of magnitude more powerful! To put it quite bluntly: as long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem. In this sense the electronic industry has not solved a single problem, it has only created them, it has created the problem of using its products.
+~ Edsger W. Dijkstra
+%
+FORTRAN's tragic fate has been its wide acceptance, mentally chaining thousands and thousands of programmers to our past mistakes.
+~ Edsger W. Dijkstra
+%
+LISP has been jokingly described as "the most intelligent way to misuse a computer". I think that description a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+~ Edsger W. Dijkstra
+%
+When FORTRAN has been called an infantile disorder, full PL/1, with its growth characteristics of a dangerous tumor, could turn out to be a fatal disease.
+~ Edsger W. Dijkstra
+%
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+~ Edsger W. Dijkstra
+%
+Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+~ Edsger W. Dijkstra
+%
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+~ Edsger W. Dijkstra
+%
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+~ Edsger W. Dijkstra
+%
+APL is a mistake, carried through to perfection. It is the language of the future for the programming techniques of the past: it creates a new generation of coding bums.
+~ Edsger W. Dijkstra
+%
+FORTRAN, 'the infantile disorder', by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.
+~ Edsger W. Dijkstra
+%
+In the good old days physicists repeated each other's experiments, just to be sure. Today they stick to FORTRAN, so that they can share each other's programs, bugs included.
+~ Edsger W. Dijkstra
+%
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+~ Edsger W. Dijkstra
+%
+Besides a mathematical inclination, an exceptionally good mastery of one's native tongue is the most vital asset of a competent programmer.
+~ Edsger W. Dijkstra
+%
+Simplicity is prerequisite for reliability.
+~ Edsger W. Dijkstra
+%
+Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
+~ Edsger W. Dijkstra
+%
+We can found no scientific discipline, nor a hearty profession, on the technical mistakes of the Department of Defense and, mainly, one computer manufacturer.
+~ Edsger W. Dijkstra
+%
+About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.
+~ Edsger W. Dijkstra
+%
+Thank goodness we don't have only serious problems, but ridiculous ones as well.
+~ Edsger W. Dijkstra
+%
+[Though computer science is a fairly new discipline, it is predominantly based on the Cartesian world view. As Edsgar W. Dijkstra has pointed out]
+A scientific discipline emerges with the - usually rather slow! - discovery of which aspects can be meaningfully 'studied in isolation for the sake of their own consistency.
+~ Edsger W. Dijkstra
+%
+How do we convince people that in programming simplicity and clarity —in short: what mathematicians call "elegance"— are not a dispensable luxury, but a crucial matter that decides between success and failure?
+~ Edsger W. Dijkstra
+%
+I think of the company advertising "Thought Processors" or the college pretending that learning BASIC suffices or at least helps, whereas the teaching of BASIC should be rated as a criminal offence: it mutilates the mind beyond recovery.
+~ Edsger W. Dijkstra
+%
+The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.
+~ Edsger W. Dijkstra
+%
+Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.
+~ Edsger W. Dijkstra
+%
+(Refering to his conclusion to the Barber paradox or Russell's paradox.)
+Probably I am very naive, but I also think I prefer to remain so, at least for the time being and perhaps for the rest of my life.
+~ Edsger W. Dijkstra
+%
+A confusion of even longer standing came from the fact that the unprepared included the electronic engineers that were supposed to design, build and maintain the machines. The job was actually beyond the electronic technology of the day, and, as a result, the question of how to get and keep the physical equipment more or less in working condition became in the early days the all-overriding concern. As a result, the topic became – primarily in the USA – prematurely known as ‘computer science’ – which, actually, is like referring to surgery as ‘knife science’ – and it was firmly implanted in people’s minds that computing science is about machines and their peripheral equipment. Quod non [Latin: "Which is not true"]. We now know that electronic technology has no more to contribute to computing than the physical equipment. We now know that programmable computer is no more and no less than an extremely handy device for realizing any conceivable mechanism without changing a single wire, and that the core challenge for computing science is hence a conceptual one, viz., what (abstract) mechanisms we can conceive without getting lost in the complexities of our own making.
+~ Edsger W. Dijkstra
+%
+When we had no computers, we had no programming problem either. When we had a few computers, we had a mild programming problem. Confronted with machines a million times as powerful, we are faced with a gigantic programming problem.
+~ Edsger W. Dijkstra
+%
+My point today is that, if we wish to count lines of code, we should not regard them as "lines produced" but as "lines spent": the current conventional wisdom is so foolish as to book that count on the wrong side of the ledger.
+~ Edsger W. Dijkstra
+%
+As economics is known as "The Miserable Science", software engineering should be known as "The Doomed Discipline", doomed because it cannot even approach its goal since its goal is self-contradictory. (...) Software engineering has accepted as its charter "How to program if you cannot.
+~ Edsger W. Dijkstra
+%
+The problems of the real world are primarily those you are left with when you refuse to apply their effective solutions.
+~ Edsger W. Dijkstra
+%
+When I came back from Munich, it was September, and I was Professor of Mathematics at the Eindhoven University of Technology. Later I learned that I had been the Department's third choice, after two numerical analysts had turned the invitation down; the decision to invite me had not been an easy one, on the one hand because I had not really studied mathematics, and on the other hand because of my sandals, my beard and my "arrogance" (whatever that may be).
+~ Edsger W. Dijkstra
+%
+In the wake of the Cultural Revolution and now of the recession I observe a mounting pressure to co-operate and to promote "teamwork". For its anti-individualistic streak, such a drive is of course highly suspect; some people may not be so sensitive to it, but having seen the Hitlerjugend in action suffices for the rest of your life to be very wary of "team spirit". Very.
+~ Edsger W. Dijkstra
+%
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+~ Edsger W. Dijkstra
+%
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
+~ Edsger W. Dijkstra
+%
+It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity.
+~ Edsger W. Dijkstra
+%
+Elegance is not a dispensable luxury but a quality that decides between success and failure.
+~ Edsger W. Dijkstra
+%
+Industry suffers from the managerial dogma that for the sake of stability and continuity, the company should be independent of the competence of individual employees. Hence industry rejects any methodological proposal that can be viewed as making intellectual demands on its work force. Since in the US the influence of industry is more pervasive than elsewhere, the above dogma hurts American computing science most. The moral of this sad part of the story is that as long as computing science is not allowed to save the computer industry, we had better see to it that the computer industry does not kill computing science.
+~ Edsger W. Dijkstra
+%
+May, in spite of all distractions generated by technology, all of you succeed in turning information into knowledge, knowledge into understanding, and understanding into wisdom.
+~ Edsger W. Dijkstra
+%
+The required techniques of effective reasoning are pretty formal, but as long as programming is done by people that don't master them, the software crisis will remain with us and will be considered an incurable disease. And you know what incurable diseases do: they invite the quacks and charlatans in, who in this case take the form of Software Engineering gurus.
+~ Edsger W. Dijkstra
+%
+It is not the task of the University to offer what society asks for, but to give what society needs.
+~ Edsger W. Dijkstra
+%
+There are very different programming styles. I tend to see them as Mozart versus Beethoven. When Mozart started to write, the composition was finished. He wrote the manuscript and it was 'aus einem Guss' (from one cast). In beautiful handwriting, too. Beethoven was a doubter and a struggler who started writing before he finished the composition and then glued corrections onto the page. In one place he did this nine times. When they peeled them, the last version proved identical to the first one.
+~ Edsger W. Dijkstra
+%
+What is the shortest way to travel from Rotterdam to Groningen, in general: from given city to given city. It is the algorithm for the shortest path, which I designed in about twenty minutes. One morning I was shopping in Amsterdam with my young fiancée, and tired, we sat down on the café terrace to drink a cup of coffee and I was just thinking about whether I could do this, and I then designed the algorithm for the shortest path. As I said, it was a twenty-minute invention. In fact, it was published in ’59, three years late. The publication is still readable, it is, in fact, quite nice. One of the reasons that it is so nice was that I designed it without pencil and paper. I learned later that one of the advantages of designing without pencil and paper is that you are almost forced to avoid all avoidable complexities. Eventually that algorithm became, to my great amazement, one of the cornerstones of my fame.
+~ Edsger W. Dijkstra
+%
+In short, I suggest that the programmer should continue to understand what he is doing, that his growing product remains firmly within his intellectual grip. It is my sad experience that this suggestion is repulsive to the average experienced programmer, who clearly derives a major part of his professional excitement from not quite understanding what he is doing. In this streamlined age, one of our most undernourished psychological needs is the craving for Black Magic and apparently the automatic computer can satisfy this need for the professional software engineer, who is secretly enthralled by the gigantic risks he takes in his daring irresponsibility. For his frustrations I have no remedy......
+~ Edsger W. Dijkstra
+%
+This is generally true: any sizeable piece of program, or even a complete program package, is only a useful tool that can be used in a reliable fashion, provided that the documentation pertinent for the user is much shorter than the program text. If any machine or system requires a very thick manual, its usefulness becomes for that very circumstance subject to doubt!
+~ Edsger W. Dijkstra
+%
