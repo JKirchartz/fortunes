@@ -852,3 +852,288 @@ The system should treat all user input as sacred.
 A computer shall not harm your work or, through inaction, allow your work to come to harm.
  ~ Jef Raskin
 %
+In fact, we started off with two or three different shells and the shell had life of its own.
+~ Ken Thompson
+%
+If you want to go somewhere, goto is the best way to get there.
+~ Ken Thompson
+%
+In college, before video games, we would amuse ourselves by posing programming exercises.
+~ Ken Thompson
+%
+One of my most productive days was throwing away 1,000 lines of code.
+~ Ken Thompson
+%
+It's always good to take an orthogonal view of something. It develops ideas.
+~ Ken Thompson
+%
+No amount of source-level verification or scrutiny will protect you from using untrusted code.
+~ Ken Thompson
+%
+You can't trust code that you did not totally create yourself.
+~ Ken Thompson
+%
+I am a very bottom-up thinker.
+~ Ken Thompson
+%
+The average gardener probably knows little about what is going on in his or her garden.
+~ Ken Thompson
+%
+I am a programmer.
+~ Ken Thompson
+%
+When in doubt, use brute force.
+~ Ken Thompson
+%
+A well installed microcode bug will be almost impossible to detect.
+~ Ken Thompson
+%
+Grant, if we edited Fortran, I assume that you'd put a column thing in there.
+~ Ken Thompson
+%
+I also have an idea for a book on biodiversity, and why and how we should be conserving it.
+~ Ken Thompson
+%
+I have to keep up with the scientific literature as part of my job, but increasingly I found myself reading things that weren't really relevant to my academic work, but were relevant to gardening.
+~ Ken Thompson
+%
+I still have a full-time day job, which is why it took me five years to write An Ear to the Ground, and why I won't have another book finished by next week.
+~ Ken Thompson
+%
+I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.
+~ Ken Thompson
+%
+I wanted to avoid, special IO for terminals.
+~ Ken Thompson
+%
+I wanted to have virtual memory, at least as it's coupled with file systems.
+~ Ken Thompson
+%
+I wanted to separate data from programs, because data and instructions are very different.
+~ Ken Thompson
+%
+It is only the inadequacy of the criminal code that saves the hackers from very serious prosecution.
+~ Ken Thompson
+%
+On the one hand, the press, television, and movies make heroes of vandals by calling them whiz kids.
+~ Ken Thompson
+%
+One is that the perfect garden can be created overnight, which it can't.
+~ Ken Thompson
+%
+So maybe I can go back to being a Gardeners' World addict again.
+~ Ken Thompson
+%
+That brings me to Dennis Ritchie. Our collaboration has been a thing of beauty.
+~ Ken Thompson
+%
+The X server has to be the biggest program I've ever seen that doesn't do anything for you.
+~ Ken Thompson
+%
+There are no projects per se in the Computing Sciences Research Center.
+~ Ken Thompson
+%
+There's a lot of power in executing data - generating data and executing data.
+~ Ken Thompson
+%
+Unauthorized access to computer systems is already a serious crime in a few states and is currently being addressed in many more state legislatures as well as Congress.
+~ Ken Thompson
+%
+We have persistant objects, they're called files.
+~ Ken Thompson
+%
+We tried to avoid, you know, records. We were told over and over that was probably the most serious mistake and the reason was the system would never catch on, because we didn't have records.
+~ Ken Thompson
+%
+C++ and Java, say, are presumably growing faster than plain C, but I bet C will still be around.
+~ Dennis Ritchie
+%
+C was already implemented on several quite different machines and OSs, Unix was already being distributed on the PDP-11, but the portability of the whole system was new.
+~ Dennis Ritchie
+%
+I'm not a person who particularly had heros when growing up.
+~ Dennis Ritchie
+%
+UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
+~ Dennis Ritchie
+%
+Obviously, the person who had most influence on my career was Ken Thompson.
+~ Dennis Ritchie
+%
+I've done a reasonable amount of travelling, which I enjoyed, but not for too long at a time.
+~ Dennis Ritchie
+%
+For infrastructure technology, C will be hard to displace.
+~ Dennis Ritchie
+%
+C is peculiar in a lot of ways, but it, like many other successful things, has a certain unity of approach that stems from development in a small group.
+~ Dennis Ritchie
+%
+The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central.
+~ Dennis Ritchie
+%
+Over the past several years, I've been more in a managerial role.
+~ Dennis Ritchie
+%
+A new release of Plan 9 happened in June, and at about the same time a new release of the Inferno system, which began here, was announced by Vita Nuova.
+~ Dennis Ritchie
+%
+When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn't developed under the advice of a worldwide crowd.
+~ Dennis Ritchie
+%
+The visible things that have come from the group have been the Plan 9 system and Inferno, but I hasten to say that the ideas and the work have come from colleagues.
+~ Dennis Ritchie
+%
+I fix things now and then, more often tweak HTML and make scripts to do things.
+~ Dennis Ritchie
+%
+Any editing, software work, and mail is done in this exported Plan 9.
+~ Dennis Ritchie
+%
+At the same time, much of it seems to have to do with recreating things we or others had already done; it seems rather derivative intellectually; is there a dearth of really new ideas?
+~ Dennis Ritchie
+%
+At least for the people who send me mail about a new language that they're designing, the general advice is: do it to learn about how to write a compiler.
+~ Dennis Ritchie
+%
+I can't recall any difficulty in making the C language definition completely open - any discussion on the matter tended to mention languages whose inventors tried to keep tight control, and consequent ill fate.
+~ Dennis Ritchie
+%
+I'm just an observer of Java, and where Microsoft wants to go with C# is too early to tell.
+~ Dennis Ritchie
+%
+My work was fairly theoretical. It was in recursive function theory. And in particular, hierarchies of functions in terms of computational complexity. I got involved in real computers and programming mainly by being - well, I was interested even as I came to graduate school.
+~ Dennis Ritchie
+%
+One of the obvious things that went wrong with Multics as a commercial success was just that it was sort of over-engineered in a sense. There was just too much in it.
+~ Dennis Ritchie
+%
+Pretty much everything on the web uses those two things: C and UNIX. The browsers are written in C. The UNIX kernel - that pretty much the entire Internet runs on - is written in C.
+~ Rob Pike
+%
+Web servers are written in C, and if they're not, they're written in Java or C++, which are C derivatives, or Python or Ruby, which are implemented in C.
+~ Rob Pike
+%
+Go is an attempt to combine the safety and performance of statically typed languages with the convenience and fun of dynamically typed interpretative languages.
+~ Rob Pike
+%
+When Steve Jobs died last week, there was a huge outcry, and that was very moving and justified.
+~ Rob Pike
+%
+To write a kernel without a data structure and have it be as consistent and graceful as UNIX would have been a much, much harder challenge.
+~ Rob Pike
+%
+You have to make a decision whether it's a new product or you integrate it with an existing product. It takes time to work these things out.
+~ Rob Pike
+%
+Dynamic typing is not necessarily good. You get static errors at run time, which you really should be able to catch at compile time.
+~ Rob Pike
+%
+We're systems software people ourselves. We wanted a language to make our lives better.
+~ Rob Pike
+%
+The process of software development doesn't feel any better than it did a generation ago.
+~ Rob Pike
+%
+We don't believe we've solved the multicore-programming problem. But we think we've built an environment in which a certain class of problems can take advantage of the multicore architecture.
+~ Rob Pike
+%
+Even though most people won't be directly involved with programming, everyone is affected by computers, so an educated person should have a good understanding of how computer hardware, software, and networks operate.
+~ Brian Kernighan
+%
+Programming language is very specific to instructing a computer to do a particular structure of a sequence. It's the very way you tell the machine what you want it to do.
+~ Brian Kernighan
+%
+I really enjoyed Princeton as a graduate student.
+~ Brian Kernighan
+%
+Unix has, I think for many years, had a reputation as being difficult to learn and incomplete. Difficult to learn means that the set of shared conventions, and things that are assumed about the way it works, and the basic mechanisms, are just different from what they are in other systems.
+~ Brian Kernighan
+%
+If you don't understand viruses, phishing, and similar threats, you become more susceptible to them. If you don't know how social networks leak information that you thought was private, you're likely to reveal much more than you realize.
+~ Brian Kernighan
+%
+Every language teaches you something, so learning a language is never wasted, especially if it's different in more than just syntactic trivia.
+~ Brian Kernighan
+%
+Bell Labs was an astonishing place for many decades, though it fell on somewhat hard times during the telecom meltdown some years ago, as its corporate owner had to cope with shrinking markets.
+~ Brian Kernighan
+%
+I had spent the summer of 1966 working at MIT in the group that was the MIT component of the Multics effort.
+~ Brian Kernighan
+%
+Anytime you want to hear about graph partitioning, I will be glad to tell you what I know about graph partitioning. It remains a standard problem. I think it's an interesting problem, because it shows up in a variety of guises in real life.
+~ Brian Kernighan
+%
+No matter how non-technical your life and work, you're going to have to interact with technology and technical people. If you know something about how devices and systems operate, it's a big advantage.
+~ Brian Kernighan
+%
+Computers and computing are all around us. Some computing is highly visible, like your laptop. But this is only part of a computing iceberg. A lot more lies hidden below the surface. We don't see and usually don't think about the computers inside appliances, cars, airplanes, cameras, smartphones, GPS navigators and games.
+~ Brian Kernighan
+%
+Technology is mostly a force for good, but it has its downsides, too. I want my students - and my readers - to be intelligently skeptical about technology and be informed about the good and the not-so-good parts.
+~ Brian Kernighan
+%
+For better or worse, the people who become leaders and decision makers in politics, law and business are going to come from schools like Princeton.
+~ Brian Kernighan
+%
+No matter what, the way to learn to program is to write code and rewrite it and see it used and rewrite again. Reading other people's code is invaluable as well.
+~ Brian Kernighan
+%
+I seem to get totally wrapped up in teaching and working with students during the school year. During the summer, I try to spend time in the real world, writing code for therapy and perhaps for some useful purpose.
+~ Brian Kernighan
+%
+I want students to understand specific technologies, but the real goal is that they should be able to reason about how systems work and be intelligently skeptical about technology so that, when they're running the world in a few years, they'll do a good job.
+~ Brian Kernighan
+%
+It's important to be informed about issues like usability, reliability, security, privacy, and some of the inherent limitations of computers.
+~ Brian Kernighan
+%
+Thus, the standard library will serve as both a tool and as a teacher.
+~ Bjarne Stroustrup
+%
+The standard library saves programmers from having to reinvent the wheel.
+~ Bjarne Stroustrup
+%
+Clearly, I reject the view that there is one way that is right for everyone and for every problem.
+~ Bjarne Stroustrup
+%
+People who passionately want to believe that the world is basically simple react to this with a fury that goes beyond what I consider appropriate for discussing a programming language.
+~ Bjarne Stroustrup
+%
+After all, C++ isn't a perfect match for Java's design aims either.
+~ Bjarne Stroustrup
+%
+It is easy to study the rules of overloading and of templates without noticing that together they are one of the keys to elegant and efficient type-safe containers.
+~ Bjarne Stroustrup
+%
+Certainly not every good program is object-oriented, and not every object-oriented program is good.
+~ Bjarne Stroustrup
+%
+Defining OO as based on the use of class hierarchies and virtual functions is also practical in that it provides some guidance as to where OO is likely to be successful.
+~ Bjarne Stroustrup
+%
+I find languages that support just one programming paradigm constraining.
+~ Bjarne Stroustrup
+%
+However, when Java is promoted as the sole programming language, its flaws and limitations become serious.
+~ Bjarne Stroustrup
+%
+This evolution may compromise Java's claim of being simpler than C++, but my guess is that the effort will make Java a better language than it is today.
+~ Bjarne Stroustrup
+%
+First, I'd like to see the basic tools such as compilers, debuggers, profilers, database interfaces, GUI builders, CAD tools, and so forth fully support the ISO standard.
+~ Bjarne Stroustrup
+%
+My list of basic tools is a partial answer to the question about what has changed: Over the past few years, large numbers of programmers have come to depend on elaborate tools to interface code with systems facilities.
+~ Bjarne Stroustrup
+%
+I would encourage nonproprietary standards for tools and libraries.
+~ Bjarne Stroustrup
+%
+With the increasing importance of standards for system-level objects such as COM and CORBA, it is particularly important that the C++ bindings to those be clean, well documented, and simple to use.
+~ Bjarne Stroustrup
+%
+Personally, I look forward to better tools for analyzing C++ source code.
+~ Bjarne Stroustrup
+%
