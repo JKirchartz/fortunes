@@ -45,6 +45,7 @@ or you can combine these with the fortune files already on your system by asking
 * [rfc1925](rfc1925) is taken from [IETF Network Working Group RFC 1925: The Twelve Networking Truths](https://www.ietf.org/rfc/rfc1925.txt)
 * [The Seventy Maxims of Maximally Effective Mercenaries](SeventyMaximsOfMaximallyEffectiveMercenaries) is taken from the [Schlock Mercenary][3] webcomic.
 * [Enkiv2's Glossary of Tech Industry Terms](enkiv2s-glossary-of-tech-industry-terms) taken from [A short glossary of tech industry terms][7]
+* [The Holy Bible: Abridged beyond the point of usefulness](BibleAbridged) by Zach Weinersmith, 2015. Some Rights Reserved.  [Attribution-Noncommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/

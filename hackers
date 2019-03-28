@@ -415,7 +415,8 @@ You know, if you were *really* going to starve, you'd be justified in writing pr
 Paying isn’t wrong, and being paid isn’t wrong. Trampling other people’s freedom and community is wrong, so the free software movement aims to put an end to it, at least in the area of software.
   ~ Richard Stallman
 %
-A hacker is someone who enjoys playful cleverness—not necessarily with computers. The programmers in the old MIT free software community of the 60s and 70s referred to themselves as hackers. Around 1980, journalists who discovered the hacker community mistakenly took the term to mean “security breaker.”
+A hacker is someone who enjoys playful cleverness
+ ~not necessarily with computers. The programmers in the old MIT free software community of the 60s and 70s referred to themselves as hackers. Around 1980, journalists who discovered the hacker community mistakenly took the term to mean "security breaker."
   ~ Richard Stallman
 %
 Free software' is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer'.
@@ -661,19 +662,20 @@ Program testing can be used to show the presence of bugs, but never to show thei
 The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.
 ~ Edsger W. Dijkstra
 %
-Another two years later, in 1957, I married and Dutch marriage rites require you to state your profession and I stated that I was a programmer. But the municipal authorities of the town of Amsterdam did not accept it on the grounds that there was no such profession. And, believe it or not, but under the heading “profession” my marriage act shows the ridiculous entry “theoretical physicist”!
+Another two years later, in 1957, I married and Dutch marriage rites require you to state your profession and I stated that I was a programmer. But the municipal authorities of the town of Amsterdam did not accept it on the grounds that there was no such profession. And, believe it or not, but under the heading "profession" my marriage act shows the ridiculous entry "theoretical physicist"!
 ~ Edsger W. Dijkstra
 %
 Automatic computers have now been with us for a quarter of a century. They have had a great impact on our society in their capacity of tools, but in that capacity their influence will be but a ripple on the surface of our culture, compared with the much more profound influence they will have in their capacity of intellectual challenge without precedent in the cultural history of mankind.
 ~ Edsger W. Dijkstra
 %
-After having programmed for some three years, I had a discussion with A. van Wijngaarden, who was then my boss at the Mathematical Center in Amsterdam, a discussion for which I shall remain grateful to him as long as I live. The point was that I was supposed to study theoretical physics at the University of Leiden simultaneously, and as I found the two activities harder and harder to combine, I had to make up my mind, either to stop programming and become a real, respectable theoretical physicist, or to carry my study of physics to a formal completion only, with a minimum of effort, and to become....., yes what? A programmer? But was that a respectable profession? For after all, what was programming? Where was the sound body of knowledge that could support it as an intellectually respectable discipline? I remember quite vividly how I envied my hardware colleagues, who, when asked about their professional competence, could at least point out that they knew everything about vacuum tubes, amplifiers and the rest, whereas I felt that, when faced with that question, I would stand empty-handed. Full of misgivings I knocked on van Wijngaarden’s office door, asking him whether I could “speak to him for a moment”; when I left his office a number of hours later, I was another person. For after having listened to my problems patiently, he agreed that up till that moment there was not much of a programming discipline, but then he went on to explain quietly that automatic computers were here to stay, that we were just at the beginning and could not I be one of the persons called to make programming a respectable discipline in the years to come? This was a turning point in my life and I completed my study of physics formally as quickly as I could. One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
+After having programmed for some three years, I had a discussion with A. van Wijngaarden, who was then my boss at the Mathematical Center in Amsterdam, a discussion for which I shall remain grateful to him as long as I live. The point was that I was supposed to study theoretical physics at the University of Leiden simultaneously, and as I found the two activities harder and harder to combine, I had to make up my mind, either to stop programming and become a real, respectable theoretical physicist, or to carry my study of physics to a formal completion only, with a minimum of effort, and to become....., yes what? A programmer? But was that a respectable profession? For after all, what was programming? Where was the sound body of knowledge that could support it as an intellectually respectable discipline? I remember quite vividly how I envied my hardware colleagues, who, when asked about their professional competence, could at least point out that they knew everything about vacuum tubes, amplifiers and the rest, whereas I felt that, when faced with that question, I would stand empty-handed. Full of misgivings I knocked on van Wijngaarden’s office door, asking him whether I could "speak to him for a moment"; when I left his office a number of hours later, I was another person. For after having listened to my problems patiently, he agreed that up till that moment there was not much of a programming discipline, but then he went on to explain quietly that automatic computers were here to stay, that we were just at the beginning and could not I be one of the persons called to make programming a respectable discipline in the years to come? This was a turning point in my life and I completed my study of physics formally as quickly as I could. One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
 ~ Edsger W. Dijkstra
 %
 Please don't fall into the trap of believing that I am terribly dogmatic about [the go to statement]. I have the uncomfortable feeling that others are making a religion out of it, as if the conceptual problems of programming could be solved by a simple trick, by a simple form of coding discipline!
 ~ Edsger W. Dijkstra
 %
-Don't blame me for the fact that competent programming, as I view it as an intellectual possibility, will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+Don't blame me for the fact that competent programming, as I view it as an intellectual possibility, will be too difficult for "the average programmer"
+ ~ you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 ~ Edsger W. Dijkstra
 %
 Several people have told me that my inability to suffer fools gladly is one of my main weaknesses.
@@ -752,7 +754,9 @@ Thank goodness we don't have only serious problems, but ridiculous ones as well.
 A scientific discipline emerges with the - usually rather slow! - discovery of which aspects can be meaningfully 'studied in isolation for the sake of their own consistency.
 ~ Edsger W. Dijkstra
 %
-How do we convince people that in programming simplicity and clarity —in short: what mathematicians call "elegance"— are not a dispensable luxury, but a crucial matter that decides between success and failure?
+How do we convince people that in programming simplicity and clarity
+ ~in short: what mathematicians call "elegance"
+ ~ are not a dispensable luxury, but a crucial matter that decides between success and failure?
 ~ Edsger W. Dijkstra
 %
 I think of the company advertising "Thought Processors" or the college pretending that learning BASIC suffices or at least helps, whereas the teaching of BASIC should be rated as a criminal offence: it mutilates the mind beyond recovery.
@@ -1275,3 +1279,94 @@ My general working style is to write everything first with pencil and paper, sit
 I currently use Ubuntu Linux, on a standalone laptop - it has no Internet connection. I occasionally carry flash memory drives between this machine and the Macs that I use for network surfing and graphics; but I trust my family jewels only to Linux.
 ~ Donald Knuth
 %
+"The digital revolution is far more significant than the invention of writing or even of printing."
+ ~ Doug Engelbart
+%
+"Technology should not aim to replace humans, rather amplify human capabilities."
+ ~ Doug Engelbart
+%
+"If ease of use was the only requirement, everybody would still be riding tricycles"
+ ~ Doug Engelbart
+%
+"In 20 or 30 years, you’ll be able to hold in your hand as much computing knowledge as exists now in the whole city, or even the whole world."
+ ~ Doug Engelbart
+%
+"The key thing about all the world’s big problems is that they have to be dealt with collectively. If we don’t get collectively smarter, we’re doomed."
+ ~ Doug Engelbart, 2006
+%
+"Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society."
+ ~ Doug Engelbart, 1961
+%
+Why waste time doing experiments in the organization with technologies that are going to be out of date in 5 years or 10 years?
+ ~ Doug Engelbart
+%
+"There’s a double pressure on the evolution of every organization: how you evolve to be more capable and effective, and efficient, but also how you stay in synch with the rest of the environment."
+ ~ Doug Engelbart
+%
+"The complexity of the problems facing mankind is growing faster than our ability to solve them"
+ ~ Doug Engelbart
+%
+"To improve our collective ability to solve the world’s problems, we must harness the immense promise and power of technology."
+ ~ Doug Engelbart
+%
+"The mouse was just a tiny piece of a much larger project, aimed at augmenting human intellect."
+ ~ Doug Engelbart, inventor of the mouse
+%
+"Any possibility for improving the effective utilization of the intellectual power of society’s problem solvers warrants the most serious consideration. This is because man’s problem-solving capability represents possibly the most important resource possessed by a society. The other contenders for first importance are all critically dependent for their development and use upon this resource."
+ ~ Doug Engelbart
+%
+"If the dream of improving human destiny isn’t enough, how about the thought that the companies that adopt the best Collective IQ improvement strategy will have a significant competitive advantage. Wouldn’t you want your group to have the highest Collective IQ?"
+ ~ Doug Engelbart
+%
+"Payoff will come when we make better use of computers to bring communities of people together and to augment the very human skills that people bring to bear on difficult problems."
+ ~ Doug Engelbart
+%
+"People have got to become more effective at handling complex problems – at their daily struggle with complex and urgent issues. The survival of man seems dependent upon it. Any reasonable possibility seen by society for increasing that effectiveness should warrant serious investigation."
+ ~ Doug Engelbart (1968)
+%
+"The rate at which a person can mature is directly proportional to the embarrassment he can tolerate"
+ ~ Doug Engelbart
+%
+"How do you harness the collective intelligence of the world to solve urgent global problems? That’s what Doug [Engelbart] was about."
+ ~ Adam Cheyer
+%
+"I don’t know what Silicon Valley will do when it runs out of Doug [Engelbart]’s ideas."
+ ~ Alan Kay
+%
+"Engelbart’s vision was [to] multiply the power of people and collaborators by creating systems that augment our intellect, humanity and creativity. His goal was to raise the human potential."
+ ~ Samim Winiger & Roelof Pieters
+%
+"Engelbart has forever changed the way we do business in America."
+ ~ Coors American Ingenuity Award, 1991
+%
+"Engelbart did not think of the computer as merely improving human thinking, but as transforming the processes of our institutions in a more profound way…"
+ ~ Janet H. Murray, "Inventing the Medium"
+%
+"Work he did 25 years ago is still at the cutting edge . . . and his organizational ideas are at least as profound."
+ ~ Alan Kay
+%
+"The great obstacle to discovering the shape of the earth, the continents and the ocean was not ignorance but the illusion of knowledge.."
+ ~  Daniel J. Boorstin
+%
+"To remain indifferent to the challenges we face is indefensible. If the goal is noble, whether or not it is realized within our lifetime is largely irrelevant. What we must do therefore is to strive and persevere and never give up."
+ ~ Dalai Lama XIV
+%
+"We need to train people in an entirely new set of 21st Century skills, which are in fact the oldest skills: communication, collaboration, empathy, respect and how to overcome cultural boundaries."
+ ~ Toomas Hendrick Ilves, the fourth President of Estonia
+%
+"Our age of anxiety is the result of trying to do today’s jobs with yesterday’s tools"
+ ~ Marshall McLuhan
+%
+"We cannot solve our problems with the same thinking we used when we created them."
+ ~  Albert Einstein
+%
+"Never doubt that a small group of thoughtful, committed people can change the world. Indeed, it is the only thing that ever has."
+ ~ Margaret Mead (see Source)
+%
+"Perhaps the most basic challenge humanity faces is to awaken our capacity for collective knowing and conscious action so that we can respond successfully to the immense social and ecological difficulties that now confront us."
+ ~ Duane Elgin, Author, Educator, Consultant
+%
+"One never notices what has been done; one can only see what remains to be done."
+ ~ Marie Curie
+%
+"When a society’s collective IQ is no match for the challenges it faces."
