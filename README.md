@@ -25,7 +25,6 @@ or you can combine these with the fortune files already on your system by asking
     fortune ~/path/to/this/repo/named/fortunes $(fortune -f 2>&1 | head -n1 | cut =d' ' -f2)
 
 
-
 * [Makefile](Makefile):
   make & update new fortune files with `make`
 * [handey](handey):
