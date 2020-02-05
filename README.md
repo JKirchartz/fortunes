@@ -22,7 +22,7 @@ use these with `fortune` like:
 
 or you can combine these with the fortune files already on your system by asking fortune where it's databases are like so:
 
-    fortune ~/path/to/this/repo/named/fortunes $(fortune -f 2>&1 | head -n1 | cut =d' ' -f2)
+    fortune ~/path/to/this/repo/named/fortunes $(fortune -f 2>&1 | head -n1 | cut -d' ' -f2)
 
 
 
