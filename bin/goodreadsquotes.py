@@ -15,7 +15,6 @@ usage:
 from pyquery import PyQuery
 import sys, random, re, time
 
-
 AUTHOR_REX = re.compile('\d+\.(\w+)$')
 
 def grabber(base_url, i=1):
