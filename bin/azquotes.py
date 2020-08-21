@@ -7,7 +7,9 @@
 # Distributed under terms of the NPL (Necessary Public License) license.
 
 """
-
+WARNING: AZ Quotes allows users to submit quotes, and may have inaccurate or
+duplicate quotes because of this, practice extra caution before and after using
+this script. Stay vigilent.
 
 Download all quotes from GoodReads by author's quote URL, print in fortune format
 usage:
