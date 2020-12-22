@@ -46,6 +46,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Enkiv2's Glossary of Tech Industry Terms](enkiv2s-glossary-of-tech-industry-terms) taken from [A short glossary of tech industry terms][7]
 * [The Holy Bible: Abridged beyond the point of usefulness](BibleAbridged) by Zach Weinersmith, 2015. Some Rights Reserved.  [Attribution-Noncommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 * [Anathem Glossary](anathem-glossary) from [Anathem by Neal Stephenson][8], as compiled by [David Blume][9]
+* [Infinite States](infinitestates) from [Fortunate by Mr Led][10] (P.S. check out this link for a neat "twitter to fortune file" script)
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
@@ -57,4 +58,4 @@ or you can combine these with the fortune files already on your system by asking
 [7]: https://medium.com/@enkiv2/a-short-glossary-of-tech-industry-terms-4b5f9fef8db3
 [8]: https://en.wikipedia.org/wiki/Anathem
 [9]: http://anathem.dlma.com/
-
+[10]: https://github.com/mrled/fortunate
