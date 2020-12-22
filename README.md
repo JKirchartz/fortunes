@@ -47,6 +47,7 @@ or you can combine these with the fortune files already on your system by asking
 * [The Holy Bible: Abridged beyond the point of usefulness](BibleAbridged) by Zach Weinersmith, 2015. Some Rights Reserved.  [Attribution-Noncommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 * [Anathem Glossary](anathem-glossary) from [Anathem by Neal Stephenson][8], as compiled by [David Blume][9]
 * [Infinite States](infinitestates) from [Fortunate by Mr Led][10] (P.S. check out this link for a neat "twitter to fortune file" script)
+* [Shower Thoughts](showerthoughts) from [Nullprogram A.K.A. skeeto A.K.A. Chris][11] - he's got [a script][12] to suss these out from Reddit submission histories (P.S. Chris was my best friend in like 1st-6th grade, he's still smarter & younger than me, blows my mind to see him around the web now-a-days.)
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
@@ -59,3 +60,4 @@ or you can combine these with the fortune files already on your system by asking
 [8]: https://en.wikipedia.org/wiki/Anathem
 [9]: http://anathem.dlma.com/
 [10]: https://github.com/mrled/fortunate
+[11]: https://nullprogram.com/blog/2016/12/01/
