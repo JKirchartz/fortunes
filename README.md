@@ -50,6 +50,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Shower Thoughts](showerthoughts) from [Nullprogram A.K.A. skeeto A.K.A. Chris][11] - he's got [a script][12] to suss these out from Reddit submission histories (P.S. Chris was my best friend in like 1st-6th grade, he's still smarter & younger than me, blows my mind to see him around the web now-a-days.)
 * [Simpson's Chalboard](SimpsonsChalkboard) collected from [Simpsons Wiki][12]
 * [Obscure Sorrows](obscuresorrows) from [Dictionary of Obscure Sorrows][13]
+* [EPIGRAMS IN PROGRAMMING From ACM's SIGPLAN publication, (September, 1982), Article "Epigrams in Programming", by Alan J. Perlis of Yale University.][14]
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
@@ -65,3 +66,4 @@ or you can combine these with the fortune files already on your system by asking
 [11]: https://nullprogram.com/blog/2016/12/01/
 [12]: https://simpsons.fandom.com/wiki/List_of_chalkboard_gags
 [13]: https://www.dictionaryofobscuresorrows.com/
+[14]: http://www.cs.yale.edu/homes/perlis-alan/quotes.html
