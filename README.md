@@ -52,8 +52,8 @@ or you can combine these with the fortune files already on your system by asking
 * [Obscure Sorrows](obscuresorrows) from [Dictionary of Obscure Sorrows][13]
 * [EPIGRAMS IN PROGRAMMING](epigrams_in_programming) from [exerpts of ACM's SIGPLAN publication, (September, 1982), Article "Epigrams in Programming", by Alan J. Perlis of Yale University.][14]
 * [Larry Wall Quotes](lwall-quotes) [http://www.cpan.org/misc/lwall-quotes.txt.gz](https://web.archive.org/web/20110701000000*/http://www.cpan.org/misc/lwall-quotes.txt.gz) containing quips from 1991(ish)-2005(ish)
-* [Heraclitus, Fragments][HeraclitusFragments] converted from [Roberto's Collection](https://github.com/r03ert0/Heraclitus-Fragments)
-* [Reyna d’Assia: The Key to Immortal Consciousness][immortal_consciousness], teachings from her father, [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff)
+* [Heraclitus, Fragments](HeraclitusFragments) converted from [Roberto's Collection](https://github.com/r03ert0/Heraclitus-Fragments)
+* [Reyna d’Assia: The Key to Immortal Consciousness](immortal_consciousness), teachings from her father, [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff). ([source](https://voxpopulisphere.com/2016/05/18/14591/))
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
