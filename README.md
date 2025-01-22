@@ -54,6 +54,8 @@ or you can combine these with the fortune files already on your system by asking
 * [Larry Wall Quotes](lwall-quotes) [http://www.cpan.org/misc/lwall-quotes.txt.gz](https://web.archive.org/web/20110701000000*/http://www.cpan.org/misc/lwall-quotes.txt.gz) containing quips from 1991(ish)-2005(ish)
 * [Heraclitus, Fragments](HeraclitusFragments) converted from [Roberto's Collection](https://github.com/r03ert0/Heraclitus-Fragments)
 * [Reyna d’Assia: The Key to Immortal Consciousness](immortal_consciousness), teachings from her father, [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff). ([source](https://voxpopulisphere.com/2016/05/18/14591/))
+* [PA Historical Markers](PA-historical-markers) retrieved from [PHMC Marker Search][15] and parsed with `jq -r '.[] | "\(.markerTitle)\n\(.markerText)\n\(.locationDescription)\n%"' PA-historical-markers.json > PA-historical-markers`
+* [Twenty Lessons On Tyranny](Twenty_Lessons_On_Tyranny_LONG) retrieved from [The Author's Newsletter](https://snyder.substack.com/p/twenty-lessons-on-tyranny) summarizes 20 lessons from the book "On Tyranny" - in long or [short](Twenty_Lessons_On_Tyranny) format.
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
@@ -70,3 +72,4 @@ or you can combine these with the fortune files already on your system by asking
 [12]: https://simpsons.fandom.com/wiki/List_of_chalkboard_gags
 [13]: https://www.dictionaryofobscuresorrows.com/
 [14]: http://www.cs.yale.edu/homes/perlis-alan/quotes.html
+[15]: https://share.phmc.pa.gov/markers/
