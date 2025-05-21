@@ -47,7 +47,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Enkiv2's Glossary of Tech Industry Terms](enkiv2s-glossary-of-tech-industry-terms) taken from [A short glossary of tech industry terms][7]
 * [The Holy Bible: Abridged beyond the point of usefulness](BibleAbridged) by Zach Weinersmith, 2015. Some Rights Reserved.  [Attribution-Noncommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/)
 * [Anathem Glossary](anathem-glossary) from [Anathem by Neal Stephenson][8], as compiled by [David Blume][9]
-* [Infinite States](InfiniteStates) from [Fortunate by Mr Led][10] (P.S. check out this link for a neat "twitter to fortune file" script)
+* [Infinite States](infinitestates) from [Fortunate by Mr Led][10] (P.S. check out this link for a neat "twitter to fortune file" script)
 * [Shower Thoughts](showerthoughts) from [Nullprogram A.K.A. skeeto A.K.A. Chris][11] - he's got [a script][12] to suss these out from Reddit submission histories (P.S. Chris was my best friend in like 1st-6th grade, he's still smarter & younger than me, blows my mind to see him around the web now-a-days.)
 * [Simpson's Chalkboard](SimpsonsChalkboard) collected from [Simpsons Wiki][12]
 * [Obscure Sorrows](ObscureSorrows) from [Dictionary of Obscure Sorrows][13]
