@@ -58,6 +58,7 @@ or you can combine these with the fortune files already on your system by asking
 * [PA Historical Markers](PA-historical-markers) retrieved from [PHMC Marker Search][15] and parsed with `jq -r '.[] | "\(.markerTitle)\n\(.markerText)\n\(.locationDescription)\n%"' PA-historical-markers.json > PA-historical-markers`
 * [Twenty Lessons On Tyranny](Twenty_Lessons_On_Tyranny_LONG) retrieved from [The Author's Newsletter](https://snyder.substack.com/p/twenty-lessons-on-tyranny) summarizes 20 lessons from the book "On Tyranny" - in long or [short](Twenty_Lessons_On_Tyranny) format.
 * [Jack Kerouac's Belief & Technique for Modern Prose][16] - 30 "essential" maxims.
+* [Hacker Questions](hacker-questions) from Allison Parrish's talk [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
 * [Tao](tao) quotes compiled by Stefan Stenudd at [Taotastic.com](https://www.taoistic.com/)
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
