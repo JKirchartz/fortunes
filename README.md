@@ -61,6 +61,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Hacker Questions](hacker-questions) from Allison Parrish's talk [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
 * [Tao](tao) quotes compiled by Stefan Stenudd at [Taotastic.com](https://www.taoistic.com/)
 * [Maxims for Revolutionists by George Bernard Shaw](https://www.gutenberg.org/ebooks/26107)
+* [Maxims and Missiles by Nietzsche](https://www.gutenberg.org/ebooks/52263/)
 * Many other quotes manualy collected, scraped from [goodreads][4] or [brainyquotes][5], or from random sites with my [page-scraping bookmarklet, found here.][6]
 
 [1]: http://principiadiscordia.com/memebombs/
