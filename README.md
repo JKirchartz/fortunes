@@ -50,7 +50,7 @@ or you can combine these with the fortune files already on your system by asking
 * [Infinite States](infinitestates) from [Fortunate by Mr Led][10] (P.S. check out this link for a neat "twitter to fortune file" script)
 * [Shower Thoughts](showerthoughts) from [Nullprogram A.K.A. skeeto A.K.A. Chris][11] - he's got [a script][12] to suss these out from Reddit submission histories (P.S. Chris was my best friend in like 1st-6th grade, he's still smarter & younger than me, blows my mind to see him around the web now-a-days.)
 * [Simpson's Chalkboard](SimpsonsChalkboard) collected from [Simpsons Wiki][12]
-* [Obscure Sorrows](obscuresorrows) from [Dictionary of Obscure Sorrows][13]
+* [Obscure Sorrows](ObscureSorrows) from [Dictionary of Obscure Sorrows][13]
 * [EPIGRAMS IN PROGRAMMING](epigrams_in_programming) from [exerpts of ACM's SIGPLAN publication, (September, 1982), Article "Epigrams in Programming", by Alan J. Perlis of Yale University.][14]
 * [Larry Wall Quotes](lwall-quotes) [http://www.cpan.org/misc/lwall-quotes.txt.gz](https://web.archive.org/web/20110701000000*/http://www.cpan.org/misc/lwall-quotes.txt.gz) containing quips from 1991(ish)-2005(ish)
 * [Heraclitus, Fragments](HeraclitusFragments) converted from [Roberto's Collection](https://github.com/r03ert0/Heraclitus-Fragments)
